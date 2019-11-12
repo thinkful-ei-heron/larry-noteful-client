@@ -1,0 +1,25 @@
+.new-note {
+  color: #bdbdbd;
+  font-family: var(--custom-font);
+  padding-left: 16px;
+  padding-top: 32px;
+  text-shadow: 2px 1px 2px black;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.form-group select {
+  width: 100px;
+}
+
+.registration__button__group {
+  padding-top: 20px;
+}
+
+.new-note-button {
+  margin-left: 20px;
+}
