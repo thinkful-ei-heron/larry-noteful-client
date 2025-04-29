@@ -36,6 +36,6 @@
     "enzyme-adapter-react-16": "^1.7.1",
     "enzyme-to-json": "^3.3.5",
     "serve": "^11.2.0",
-    "server": "^1.0.19"
+    "server": "^1.0.41"
   }
 }
